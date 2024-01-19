@@ -10,3 +10,5 @@ En este documento se realiza la exploración de los datos, la extracción de car
 
 ## Modelos Lineales
 Este script presenta la normalización de las características extraidas, la vectorización de los textos y la predicción de las califiaciones mediante los métodos LBM, regresión lineal y XGBoost.
+
+## Super Vector Machine
