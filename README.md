@@ -7,8 +7,9 @@ disponible (conjunto de entrenamiento) en un concurso llamado Feedback prize 3 p
 
 ## Preprocesamiento
 En este documento se realiza la exploración de los datos, la extracción de carpacteristicas y el preprocesamiento. Se genera una base de datos tanto de entrenamiento como de prueba que será implementada en los modelos.
+Parte de la extracción de caracteristicas está basada en el trabajo realizado por Jonathan Bown que se encuentra en el repositorio: https://www.kaggle.com/code/jonbown/feedback-prize-feature-engineering
 
 ## Modelos Lineales
 Este script presenta la normalización de las características extraidas, la vectorización de los textos y la predicción de las califiaciones mediante los métodos LBM, regresión lineal y XGBoost.
-
+Parte de los modelos lineales implementados  se basan tambien en el trabajo realizado por Jonathan Bown que se encuentra en el repositorio: https://www.kaggle.com/code/jonbown/feedback-prize-candidate-model-exploration/notebook
 ## Super Vector Machine
